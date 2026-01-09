@@ -50,7 +50,7 @@ To get the "original" image, basic reverse engineering must take place
 
 **Method 1: Drag and Drop (Windows)**
 Download your image directly from the Gemini website. Do not right click and save the image. This prevents the watermark removal process
-Simply drag your `.jpg` or `.png` file and drop it directly onto the Python script icon.
+Simply drag your `.png` file and drop it directly onto the Python script.
 
 **Method 2: Command Line**
 ```bash
