@@ -9,6 +9,10 @@ Unlike AI inpainting tools that "guess" what pixels should look like, this scrip
 * **Auto Detection**: Automatically detects image resolution to apply the correct watermark mask (Small vs. Large).
 * **Local Processing**: Runs 100% offline. No grubby companies to hold your images.
 
+# Before
+![Before](https://raw.githubusercontent.com/duckiedevelop/Gemini-Watermark-Remover/refs/heads/main/before1.png)
+# After
+![After](https://raw.githubusercontent.com/duckiedevelop/Gemini-Watermark-Remover/refs/heads/main/after1.png)
 ## Prerequisites
 
 1.  **Python** (3.9 or newer, tested on 3.11.5)
